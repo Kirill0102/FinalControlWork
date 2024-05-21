@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Final-control-work-on-the-basic-block", "Final-control-work-on-the-basic-block", "{33D95865-F835-48D5-A5ED-ACC059BFD047}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task", "Final-control-work-on-the-basic-block\Task\Task.csproj", "{460133F4-9C71-4AB8-A63B-FCAF72B52C21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460133F4-9C71-4AB8-A63B-FCAF72B52C21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460133F4-9C71-4AB8-A63B-FCAF72B52C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460133F4-9C71-4AB8-A63B-FCAF72B52C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460133F4-9C71-4AB8-A63B-FCAF72B52C21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{460133F4-9C71-4AB8-A63B-FCAF72B52C21} = {33D95865-F835-48D5-A5ED-ACC059BFD047}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0BFE269-0D97-4BE2-B975-841629EEF864}
+	EndGlobalSection
+EndGlobal
